@@ -1,4 +1,4 @@
-####  Stackina-base-box
+####  Stack-lxd-base-box
 
 This project is intended to be used with Vagrant and VirtualBox.  It gives you a vagrant base box with OpenStack (DevStack) pre-installed and configured to run with nova-compute-lxd hypervisor as compute driver.  
 
